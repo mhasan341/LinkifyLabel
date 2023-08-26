@@ -10,8 +10,9 @@ A Label that supports creating link in it.
 # Sample
 # Example Project
 # Contribution
+I do have plans to add more options to this repo, however feel free to open issues to give new ideas and create PR with your idea as well.
 # Credits
-The original code was created by [Toomas Vahter](https://github.com/laevandus/UILabelHyperlinks) and 
+The original code was created by [Toomas Vahter](https://github.com/laevandus/UILabelHyperlinks) and I made some updates to the source and also Made it available for SPM. He is the Alpha.
 # License
 ###Origianl Source:
 MIT License
