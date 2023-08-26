@@ -12,7 +12,7 @@ A Label that supports creating link in it.
 # Contribution
 I do have plans to add more options to this repo, however feel free to open issues to give new ideas and create PR with your idea as well.
 # Credits
-The original code was created by [Toomas Vahter](https://github.com/laevandus/UILabelHyperlinks) and I made some updates to the source and also Made it available for SPM. He is the Alpha.
+The original code was created by [Toomas Vahter](https://github.com/laevandus/UILabelHyperlinks) and I made some updates to the source and also Made it available for SPM. He is the Alpha. [A Blog](https://augmentedcode.io/2020/12/20/opening-hyperlinks-in-uilabel-on-ios/) he wrote contains more details and examples.
 # License
 ### Original Source:
 MIT License
