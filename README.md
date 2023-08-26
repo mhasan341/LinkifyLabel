@@ -12,7 +12,9 @@ A Label that supports creating link in it.
 To install this Swift Package follow these steps:
 1. From Xcode, select "File" -> "Add Package Dependencies..."
 2. From top right corner, Enter https://github.com/mhasan341/LinkifyLabel in the searchbox
-3. or you can follow the guide [here](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app)
+3. Dependency rule branch and select main as branch
+4. Click Copy Dependencies button
+* or you can follow the guide [here](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app)
 ## Manual
 1. Download this repository
 2. Copy all files inside Sources folder to your project
