@@ -21,5 +21,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ### Updates
-No Copyright with the updates, feel free to do what you like, but no guarranty.
+No Copyright with the updates, feel free to do what you like, but at your own risk.
 I won't send a lawyer to your address, don't worry ;) 
