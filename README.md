@@ -14,7 +14,7 @@ I do have plans to add more options to this repo, however feel free to open issu
 # Credits
 The original code was created by [Toomas Vahter](https://github.com/laevandus/UILabelHyperlinks) and I made some updates to the source and also Made it available for SPM. He is the Alpha.
 # License
-###Origianl Source:
+### Original Source:
 MIT License
 
 Copyright (c) 2020 Toomas Vahter
@@ -36,6 +36,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-###Updates
+### Updates
 No Copyright with the updates, feel free to do what you like, but no guarranty.
 I won't send a lawyer to your address, don't worry ;) 
