@@ -1,5 +1,8 @@
 # LinkifyLabel
-<img src="https://img.shields.io/badge/PLATFORM-IOS-red?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Swift%20Compatibility-4+-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPM-Supported-green?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PLATFORM-IOS-red?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swift%20Compatibility-4+-blue?style=for-the-badge" />
 #
 A Label that supports creating link in it. 
 
